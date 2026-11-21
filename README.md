@@ -1,6 +1,9 @@
-# BBTools bioinformatics tools, including BBMap.
-# Author: Brian Bushnell, Jon Rood, Shijie Yao
-# Language: Java, Bash
-# Information about documentation is in /docs/readme.txt.
+A mirror of the bbmap package.
 
-# Version 39.26
+Code is taken from:
+https://github.com/bbushnell/BBTools
+
+Authors' data:
+BBTools bioinformatics tools, including BBMap.
+Authors: Brian Bushnell, Jon Rood, Shijie Yao
+
